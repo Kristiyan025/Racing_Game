@@ -1,0 +1,11 @@
+final color[] skyBlues = { color(0, 50, 94),  color(0, 136, 255)};
+final color[] lightGreens = { color(66, 255, 66), color(22, 99, 22) };
+final color[] darkGreens = { color(48, 191, 48), color(18, 59, 18) }; 
+final color[] roadGrays = { color(42, 42, 59), color(73, 73, 102) };
+final color[] finishLineWhites = { color(170), color(255) };
+final color[] finishLineBlacks = { color(25), color(10) };
+final color[] sidewalkReds = { color(204, 0, 0), color(112, 0, 0) };
+final color[] sidewalkWhites = { color(186, 186, 186), color(230, 230, 230) };
+final color[] middleDottedLines = { color(201, 201, 201), color(242, 242, 242) };
+final color carTiresBlack = color(13, 13, 13);
+final color[] carColors = { color(0, 132, 247), color(0, 47, 117) };
